@@ -72,6 +72,11 @@
     footer {
       height: 40vh;
     }
+
+    #footer-links{
+      margin-right: 1rem;
+
+    }
   
     #profile {
       height: 83vh;
@@ -159,3 +164,5 @@
     }
   
   }
+
+  
