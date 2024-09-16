@@ -397,8 +397,8 @@ article p {
 
 .project-img, .blog-img {
   border-radius: 1rem;
-  width: 90%;
-  height: 90%;
+  width: 50%;
+  height: 50%;
   object-fit: cover;
   /* height: 25rem; */
   /* width: 100%; */
